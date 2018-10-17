@@ -1,4 +1,4 @@
-/* Alarm.h - Manage alarms
+/* Alarm.h - Alarm Management Library
  * 
  * Author: Márcio Pessoa <marcio.pessoa@sciemon.com>
  * Contributors: none

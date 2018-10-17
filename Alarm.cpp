@@ -1,4 +1,4 @@
-/* Alarm.cpp - Manage alarms
+/* Alarm.cpp - Alarm Management Library
  * 
  */
 
